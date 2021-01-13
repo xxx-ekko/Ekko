@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610559858 source:c:\users\thinkpad e420s\documents\langage c\qcm\qcm\main.c
+	<stdio.h>
+	<stdlib.h>
+
